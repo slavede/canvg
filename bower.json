@@ -1,6 +1,6 @@
 {
-  "name": "canvg",
-  "version": "1.0.0",
+  "name": "slavede-canvg",
+  "version": "1.0.1",
   "main": "canvg.js",
   "keywords": ["javascript", "client", "browser", "svg", "canvas"],
   "ignore" : ["examples", "svgs"],

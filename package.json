@@ -1,5 +1,5 @@
 {
-  "name": "canvg",
+  "name": "slavede-canvg",
   "description": "Javascript SVG parser and renderer on Canvas",
   "homepage": "https://github.com/gabelerner/canvg",
   "keywords": [
@@ -15,7 +15,7 @@
     "url": "git://github.com/gabelerner/canvg.git"
   },
   "main": "canvg.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "devDependencies": {},
   "scripts": {},
   "license": "MIT",
